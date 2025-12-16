@@ -50,7 +50,7 @@ o	58–67
 # Insights:
 •	The highest number of employees falls into the 28–37 age range.
 •	Older age groups (48–67) are underrepresented.
-## Step 5: HR Dashboard Creation
+# Step 5: HR Dashboard Creation
 •	Combined all charts and PivotTables into a single dashboard:
 o	Pie chart for attrition analysis
 o	Bar chart for department-wise income
